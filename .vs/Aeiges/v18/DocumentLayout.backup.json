@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|c:\\users\\admin\\documents\\college stuff\\4th semester project\\aeigescybercrimesystem\\aeiges\\forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|solutionrelative:aeiges\\forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\aeiges\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|solutionrelative:aeiges\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\aeiges\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|solutionrelative:aeiges\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\aeiges\\forms\\submitcomplaintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|solutionrelative:aeiges\\forms\\submitcomplaintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\aeiges\\forms\\submitcomplaintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|solutionrelative:aeiges\\forms\\submitcomplaintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\aeiges\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|solutionrelative:aeiges\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\aeiges\\forms\\addofficerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|solutionrelative:aeiges\\forms\\addofficerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\aeiges\\forms\\addofficerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|solutionrelative:aeiges\\forms\\addofficerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\aeiges\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|solutionrelative:aeiges\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\aeiges\\forms\\viewcomplaintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Aeiges\\Aeiges.csproj|solutionrelative:aeiges\\forms\\viewcomplaintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Aeiges\\Forms\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "Aeiges\\Forms\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T00:29:23.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Aeiges\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Aeiges\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:27:07.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "Aeiges\\Forms\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "Aeiges\\Forms\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:27:05.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubmitComplaintForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\SubmitComplaintForm.cs",
+              "RelativeDocumentMoniker": "Aeiges\\Forms\\SubmitComplaintForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\SubmitComplaintForm.cs",
+              "RelativeToolTip": "Aeiges\\Forms\\SubmitComplaintForm.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAjwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T00:29:31.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Aeiges\\Forms\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "Aeiges\\Forms\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:27:09.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubmitComplaintForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\SubmitComplaintForm.cs",
+              "RelativeDocumentMoniker": "Aeiges\\Forms\\SubmitComplaintForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\SubmitComplaintForm.cs [Design]",
+              "RelativeToolTip": "Aeiges\\Forms\\SubmitComplaintForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:27:08.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddOfficerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\AddOfficerForm.cs",
+              "RelativeDocumentMoniker": "Aeiges\\Forms\\AddOfficerForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\AddOfficerForm.cs",
+              "RelativeToolTip": "Aeiges\\Forms\\AddOfficerForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T00:29:00.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\App.config",
+              "RelativeDocumentMoniker": "Aeiges\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\App.config",
+              "RelativeToolTip": "Aeiges\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-10T00:28:56.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddOfficerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\AddOfficerForm.cs",
+              "RelativeDocumentMoniker": "Aeiges\\Forms\\AddOfficerForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\AddOfficerForm.cs [Design]",
+              "RelativeToolTip": "Aeiges\\Forms\\AddOfficerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:27:06.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewComplaintForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\ViewComplaintForm.cs",
+              "RelativeDocumentMoniker": "Aeiges\\Forms\\ViewComplaintForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College Stuff\\4th Semester Project\\AeigesCyberCrimeSystem\\Aeiges\\Forms\\ViewComplaintForm.cs [Design]",
+              "RelativeToolTip": "Aeiges\\Forms\\ViewComplaintForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:27:09.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
